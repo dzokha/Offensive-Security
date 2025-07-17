@@ -1,0 +1,49 @@
+[33maab5fa3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mstudent[m[33m)[m HEAD@{0}: pull: Merge made by the 'ort' strategy.
+[33mbe6a520[m HEAD@{1}: checkout: moving from student to student
+[33mbe6a520[m HEAD@{2}: commit: HTTT2311036
+[33m55cdd44[m HEAD@{3}: checkout: moving from student to student
+[33m55cdd44[m HEAD@{4}: checkout: moving from student to student
+[33m55cdd44[m HEAD@{5}: checkout: moving from student to student
+[33m55cdd44[m HEAD@{6}: checkout: moving from student to student
+[33m55cdd44[m HEAD@{7}: checkout: moving from student to student
+[33m55cdd44[m HEAD@{8}: checkout: moving from student to student
+[33m55cdd44[m HEAD@{9}: commit (merge): HTTT2311036
+[33m368d276[m HEAD@{10}: checkout: moving from student to student
+[33m368d276[m HEAD@{11}: checkout: moving from 24bfd0806309bf198456beddfc5e1ae705755040 to student
+[33m24bfd08[m HEAD@{12}: commit: HTTT2311036
+[33m5b9da4a[m HEAD@{13}: pull --rebase origin student (start): checkout 5b9da4a76e0b67d5a9b82b394ad9403e32e61f2f
+[33m368d276[m HEAD@{14}: commit: HTTT2311036
+[33m2c7507a[m HEAD@{15}: checkout: moving from student to student
+[33m2c7507a[m HEAD@{16}: pull --rebase origin student (finish): returning to refs/heads/student
+[33m2c7507a[m HEAD@{17}: pull --rebase origin student (pick): HTTT2311036
+[33ma45475c[m HEAD@{18}: pull --rebase origin student (start): checkout a45475cf4328284f2f297b264927cf27a0197d6f
+[33mc79a6ee[m HEAD@{19}: commit: HTTT2311036
+[33mbbf7eea[m HEAD@{20}: checkout: moving from student to student
+[33mbbf7eea[m HEAD@{21}: pull --rebase origin student (finish): returning to refs/heads/student
+[33mbbf7eea[m HEAD@{22}: pull --rebase origin student (pick): HTTT2311036
+[33m447245d[m HEAD@{23}: pull --rebase origin student (start): checkout 447245d66d6904dd7b6871a784552751b5579bde
+[33mf18576e[m HEAD@{24}: commit: HTTT2311036
+[33m05ec332[m HEAD@{25}: checkout: moving from student to student
+[33m05ec332[m HEAD@{26}: commit: HTTT2311036
+[33m20efd7c[m HEAD@{27}: checkout: moving from student to student
+[33m20efd7c[m HEAD@{28}: pull --rebase origin student: Fast-forward
+[33m0e87828[m HEAD@{29}: checkout: moving from student to student
+[33m0e87828[m HEAD@{30}: pull --rebase origin student: Fast-forward
+[33m23d0547[m HEAD@{31}: checkout: moving from student to student
+[33m23d0547[m HEAD@{32}: pull --rebase origin student (finish): returning to refs/heads/student
+[33m23d0547[m HEAD@{33}: pull --rebase origin student (pick): HTTT2311036
+[33mdbf36f3[m HEAD@{34}: pull --rebase origin student (start): checkout dbf36f368a5f05c4a25a0821506bed7666ad3a50
+[33mf65381f[m HEAD@{35}: commit: HTTT2311036
+[33m19ef080[m HEAD@{36}: checkout: moving from student to student
+[33m19ef080[m HEAD@{37}: checkout: moving from student to student
+[33m19ef080[m HEAD@{38}: commit (merge): Resolve merge conflicts
+[33m78d6284[m HEAD@{39}: commit (merge): Áda
+[33mcfcccfe[m HEAD@{40}: commit: buoi 2
+[33m8805316[m HEAD@{41}: checkout: moving from student to student
+[33m8805316[m HEAD@{42}: checkout: moving from b2083a059e68fca12f0f9142127c1baeeb75fe05 to student
+[33mb2083a0[m HEAD@{43}: pull origin student --rebase (pick): hijh
+[33m669169f[m HEAD@{44}: pull origin student --rebase (start): checkout 669169fb243bb5e73e305b763591f296c025c9ae
+[33mbd1662f[m HEAD@{45}: commit: hijh
+[33m8805316[m HEAD@{46}: checkout: moving from student to origin/student
+[33m8805316[m HEAD@{47}: checkout: moving from main to student
+[33m7163a74[m[33m ([m[1;32mmain[m[33m)[m HEAD@{48}: clone: from https://github.com/dzokha1010/InfoSec.git
