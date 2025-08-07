@@ -17,4 +17,7 @@
 
 html<br><table><tr><td>A</td><td>B</td></tr></table>
 ```
-html<br><table><tr><td>A</td><td>B</td></tr></table>
+<table>
+  <tr><td></td><td>HTTT2211 (2024 - 2025)</td><td>HTTT2311 (2024 - 2025)</td></tr>
+  <tr><td></td><td>HTTT2211 (2024 - 2025)</td><td>HTTT2311 (2024 - 2025)</td></tr>
+</table>
