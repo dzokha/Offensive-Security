@@ -1,3 +1,5 @@
+```
+
 # Lớp HTTT2211 (2024 - 2025)
 ## Thông tin lớp
 - Tổng số sinh viên: 62
@@ -12,3 +14,6 @@
 3. Hồ Phúc Thịnh
 4. Trần Thy Thảo Vy
 5. Nguyễn Khang An
+
+html<br><table><tr><td>A</td><td>B</td></tr></table>
+```
