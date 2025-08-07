@@ -1,6 +1,6 @@
 # Kết quả giảng dạy môn An toàn các hệ thống thông tin
 <table>
-  <tr><td></td><td>HTTT2211 (2024 - 2025)</td><td>HTTT2311 (2024 - 2025)</td></tr>
+  <tr><td></td><td style="text-align:center;">HTTT2211 (2024 - 2025)</td><td>HTTT2311 (2024 - 2025)</td></tr>
   <tr><td>Tổng số sinh viên</td><td style="text-align:center;">62</td><td></td></td></tr>
   <tr><td>Số sinh viên nam</td><td style="text-align:center;">44</td><td></td></tr>
   <tr><td>Số sinh viên nữ</td><td style="text-align:center;">18</td><td></td></tr>
