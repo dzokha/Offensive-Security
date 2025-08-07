@@ -19,5 +19,10 @@ html<br><table><tr><td>A</td><td>B</td></tr></table>
 ```
 <table>
   <tr><td></td><td>HTTT2211 (2024 - 2025)</td><td>HTTT2311 (2024 - 2025)</td></tr>
-  <tr><td></td><td>HTTT2211 (2024 - 2025)</td><td>HTTT2311 (2024 - 2025)</td></tr>
+  <tr><td>Tổng số sinh viên</td><td></td><td></td></td></tr>
+  <tr><td>Số sinh viên nam</td><td></td><td></td></tr>
+  <tr><td>Số sinh viên nữ</td><td></td><td></td></tr>
+  <tr><td>Điểm thi cao nhất</td><td></td><td></td></tr>
+  <tr><td>Điểm thi thấp nhất</td><td></td><td>)</td></tr>
+  <tr><td>Sinh viên cao điểm nhất</td><td></td><td></td></tr>
 </table>
