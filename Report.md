@@ -17,3 +17,4 @@
 
 html<br><table><tr><td>A</td><td>B</td></tr></table>
 ```
+html<br><table><tr><td>A</td><td>B</td></tr></table>
