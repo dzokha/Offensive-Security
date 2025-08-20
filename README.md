@@ -1,5 +1,5 @@
 # InfoSec Laboratory
-## Kết quả học tập của các lớp
+## Kết quả đánh giá của các lớp
 <table>
   <tr><td></td><td>HTTT2211 (2024 - 2025)</td><td>HTTT2311 (2024 - 2025)</td></tr>
   <tr><td>Tổng số sinh viên</td><td>62</td><td>63</td></td></tr>
